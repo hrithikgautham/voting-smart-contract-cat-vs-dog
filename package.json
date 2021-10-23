@@ -1,0 +1,30 @@
+{
+  "name": "vote-cat-dog",
+  "version": "1.0.0",
+  "description": "cat vs dog voting smart contract",
+  "main": "deploy.js",
+  "dependencies": {
+    "solc": "^0.8.9",
+    "truffle-hdwallet-provider": "^1.0.17",
+    "web3": "^1.6.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:hrithikgautham/voting-smart-contract-cat-vs-dog.git"
+  },
+  "keywords": [
+    "smartcontract",
+    "ethereum",
+    "ropsten"
+  ],
+  "author": "hrithik",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hrithikgautham/voting-smart-contract-cat-vs-dog/issues"
+  },
+  "homepage": "https://github.com/hrithikgautham/voting-smart-contract-cat-vs-dog#readme"
+}
