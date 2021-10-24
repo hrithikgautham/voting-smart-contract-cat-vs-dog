@@ -7,8 +7,8 @@
 
 ## To start Web application.
 
-### ```cd app```.
-### ```npm start```.
+### ```cd app```
+### ```npm start```
 <hr>
 <br>
 
